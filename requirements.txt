@@ -1,7 +1,7 @@
 numba
 llvmlite
 
-streamlit==1.37.0
+streamlit==0.62
 plotly
 seaborn
 natsort
