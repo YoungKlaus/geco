@@ -1,5 +1,5 @@
 numba==0.46
-llvmlite==0.30
+llvmlite
 
 streamlit==0.62
 plotly==4.6
